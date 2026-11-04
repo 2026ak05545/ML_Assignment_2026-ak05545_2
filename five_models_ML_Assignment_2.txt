@@ -1,0 +1,21 @@
+ML ASSIGNMENT 2 – FIVE MACHINE LEARNING MODELS
+Dataset: Adult Income Dataset
+
+The five classification models used in the assignment are:
+
+1. Logistic Regression
+   Model file: logistic_regression.joblib
+
+2. Decision Tree
+   Model file: decision_tree.joblib
+
+3. K-Nearest Neighbors (KNN)
+   Model file: k_nearest_neighbors.joblib
+
+4. Gaussian Naive Bayes
+   Model file: gaussian_naive_bayes.joblib
+
+5. Support Vector Machine (SVM)
+   Model file: support_vector_machine.joblib
+
+These models are compared for the Adult Income classification task.
